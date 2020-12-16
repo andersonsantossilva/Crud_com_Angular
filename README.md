@@ -1,2 +1,2 @@
 # Crud_com_Angular
- Simple Crud with Angular
+ A simple crud with Angular
